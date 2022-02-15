@@ -1,7 +1,7 @@
 ### I code:
 - JS
 - Python
-- - and HTML & CSS
+- and HTML & CSS
 
 cheese
 
