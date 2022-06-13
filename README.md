@@ -5,9 +5,9 @@
 
 ### I Code In:
 
-> - <span style="background-color:royalblue; color:white;">Python</span>  
-> - <span style="background-color:royalblue; color:white;">Node.js</span>  
-> - <span style="background-color:royalblue; color:white;">HTML, CSS, and JS</span>
+> - <span style="color:royalblue;">Python</span>  
+> - <span style="color:white;">Node.js</span>  
+> - <span style="color:white;">HTML, CSS, and JS</span>
 
 ### I Want To:
 
