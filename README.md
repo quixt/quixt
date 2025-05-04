@@ -1,19 +1,11 @@
 
-# Quixt
+# My Name is Joseph
 
-> *I enjoy programming, video games, and working with my hands*
+> I am currently a student at the Georgia Institute of Technology in mechanical engineering.
+> In my free time, I enjoy programming, blacksmithing, sailing, and playing the cello.
 
-### I Code In:
+### I am Profficient in:
 
 > - <span style="color:royalblue;">Python</span>  
-> - <span style="color:white;">Node.js</span>  
-> - <span style="color:white;">HTML, CSS, and JS</span>
-
-### I Want To:
-
-> - Learn **Java**
-> - Learn the **Unity UI**
-
-### See Some of my Projects!
-
-> - **[My Github Pages](https://quixt.github.io/)**
+> - <span style="color:white;">Javascript</span>  
+> - <span style="color:white;">HTML and CSS</span>
